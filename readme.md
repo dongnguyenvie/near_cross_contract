@@ -1,0 +1,1 @@
+near call dev-1656233957922-76941241592891 say_hello  --accountId your-account
